@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "moss_carpets",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "colouredmoss:pink_moss_block"
+    }
+  },
+  "result": {
+    "item": "colouredmoss:pink_moss_carpet",
+    "count": 3
+  }
+}

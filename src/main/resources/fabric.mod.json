@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "colouredmoss",
+  "version": "1.1",
+
+  "name": "Chromatic Mosses and Azaleas",
+  "description": "Adds moss blocks, azalea bushed and azalea trees in all colors",
+  "authors": [
+    "Finallion"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.finallion.colouredmoss.ColouredMoss"
+    ],
+    "client": [
+      "com.finallion.colouredmoss.ColouredMossClient"
+    ]
+  },
+  "mixins": [
+    "colouredmoss.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

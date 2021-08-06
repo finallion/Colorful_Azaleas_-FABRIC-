@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_azalea",
+  "textures": {
+    "top": "colouredmoss:block/purple_flowering_azalea_top",
+    "side": "colouredmoss:block/purple_flowering_azalea_side"
+  }
+}

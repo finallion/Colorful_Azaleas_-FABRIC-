@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "moss_carpets",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "colouredmoss:yellow_moss_block"
+    }
+  },
+  "result": {
+    "item": "colouredmoss:yellow_moss_carpet",
+    "count": 3
+  }
+}

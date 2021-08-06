@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_potted_azalea_bush",
+  "textures": {
+    "top": "colouredmoss:block/potted_purple_flowering_azalea_bush_top_variant",
+    "side": "colouredmoss:block/potted_purple_flowering_azalea_bush_side_variant"
+  }
+}

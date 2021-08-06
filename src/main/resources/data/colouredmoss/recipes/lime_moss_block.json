@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "moss",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "colouredmoss:moss"
+    },
+    "X": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "colouredmoss:lime_moss_block",
+    "count": 8
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mycelium",
+    "minecraft:rooted_dirt",
+    "minecraft:moss_block",
+    "colouredmoss:white_moss_block",
+    "colouredmoss:light_grey_moss_block",
+    "colouredmoss:grey_moss_block",
+    "colouredmoss:black_moss_block",
+    "colouredmoss:brown_moss_block",
+    "colouredmoss:blue_moss_block",
+    "colouredmoss:cyan_moss_block",
+    "colouredmoss:light_blue_moss_block",
+    "colouredmoss:pink_moss_block",
+    "colouredmoss:purple_moss_block",
+    "colouredmoss:magenta_moss_block",
+    "colouredmoss:red_moss_block",
+    "colouredmoss:orange_moss_block",
+    "colouredmoss:yellow_moss_block",
+    "colouredmoss:lime_moss_block"
+  ]
+}

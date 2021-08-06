@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_azalea",
+  "textures": {
+    "top": "colouredmoss:block/brown_azalea_top",
+    "side": "colouredmoss:block/brown_azalea_side",
+    "particle": "colouredmoss:block/brown_azalea_top"
+  }
+}
